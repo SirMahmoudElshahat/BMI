@@ -1,16 +1,23 @@
-# b_m_i
+# 📱 BMI Calculator
 
-A new Flutter project.
+A **Body Mass Index (BMI)** calculator app built with **Flutter** and **Dart**, featuring a modern and responsive design.
 
-## Getting Started
+## 🛠 Technologies Used
+- **Flutter**: Cross-platform mobile development framework.
+- **Dart**: Programming language used for Flutter development.
+- **Material Design**: Provides a smooth and intuitive user experience.
 
-This project is a starting point for a Flutter application.
+## 🎯 Features
+- **Gender Selection**: Choose between **Male** and **Female**.
+- **Height, Weight & Age Adjustment**: Easily set values using sliders and buttons.
+- **BMI Calculation**: Uses the formula **weight / (height in meters)^2**.
+- **Result Display**: Determines if the user is **Underweight**, **Normal**, **Overweight**, or **Obese**.
+- **Responsive UI**: Works seamlessly on different screen sizes.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed4aadae-593c-40ae-b261-80d31642fb12" width="30%" />
+  <img src="https://github.com/user-attachments/assets/00ed2bf2-40e3-4903-90a7-e2559cb312d8" width="30%" />
+  <img src="https://github.com/user-attachments/assets/0264912d-444c-4d20-b501-186e7b659ad3" width="30%" />
+</div>
